@@ -1,6 +1,6 @@
 # Glacier Centerline Extraction using OGGM
 
-This repository contains a Jupyter Notebook (`centerline.ipynb`) that demonstrates how to extract glacier centerlines using the [OGGM (Open Global Glacier Model)](https://oggm.org/) framework. It is primarily intended for glacier research and educational use, particularly in glaciological applications such as mass balance and flowline modeling.
+This repository contains a Jupyter Notebook (`centerline.ipynb`) that demonstrates how to extract glacier centerlines using the [OGGM (Open Global Glacier Model)](https://oggm.org/) framework. 
 
 ## Contents
 
