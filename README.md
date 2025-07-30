@@ -10,6 +10,7 @@ This repository provides a Jupyter Notebook (`centerline.ipynb`) that demonstrat
   - Computing glacier centerlines using OGGM’s routing algorithms
   - Visualizing glacier outlines and centerlines with matplotlib and geopandas
 -Example Output:
+Example visualization of a glacier and its computed centerline
 ![Example Glacier Centerline Output](Fountain_area.png)
 
 ### Requirements
