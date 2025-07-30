@@ -12,7 +12,8 @@ This repository provides a Jupyter Notebook (`centerline.ipynb`) that demonstrat
 -Example Output:
 Example visualization of a glacier and its computed centerline
 
-![Example Glacier Centerline Output](Fountain area.png)
+![Example Glacier Centerline Output](Fountain_area.png)
+
 
 ### Requirements
 
